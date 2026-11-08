@@ -1,0 +1,8 @@
+Urls For All Files:
+**Low_Fidelity_Figma_Wireframe**= https://www.figma.com/design/enMlmJ5omgeErpuyi0dCtV/Lo-Fi-Figma-Wireframe?m=auto&t=Kqi3C8OrxGUcK8fq-6
+**High_Fidelity_Figma_Wireframe**= https://www.figma.com/design/LHpx8t9HZGLiyzqIMhPS4x/Hi-Fi-Figma-Wireframe?m=auto&t=Kqi3C8OrxGUcK8fq-6
+**Instagram_Carousal_1**= https://canva.link/6pn411ai4vuzr3b
+**Instagram_Carousal_2**= https://canva.link/1y1g3suvnbsfou8
+**Instagram_Carousal_3**= https://canva.link/tvxv6ylczm1u6rw
+**LinkenIn_Text_Post_1-2**= https://canva.link/jtgqbqdv0zgi97d
+**Looker_Studio_Executive_Dashboard**= https://datastudio.google.com/reporting/4780a7ef-6fbd-454b-a59e-bc90ccc667ab
