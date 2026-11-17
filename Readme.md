@@ -54,13 +54,13 @@ Comprehensive 10-week growth marketing capstone project for Board Infinity, targ
 
 \## Wireframes \& Design Links
 
-\*\*Low Fidelity Figma Prototype:\*\* \[https://www.figma.com/design/enMlmJ5omgeErpuyi0dCtV/Lo-Fi-Figma-Wireframe?m=auto\&t=Kqi3C8OrxGUcK8fq-6]
+\*\*Low Fidelity Figma Prototype:\*\* https://www.figma.com/design/enMlmJ5omgeErpuyi0dCtV/Lo-Fi-Figma-Wireframe?m=auto\&t=Kqi3C8OrxGUcK8fq-6
 
-\*\*High Fidelity Figma Prototype:\*\* \[https://www.figma.com/design/LHpx8t9HZGLiyzqIMhPS4x/Hi-Fi-Figma-Wireframe?]
+\*\*High Fidelity Figma Prototype:\*\* https://www.figma.com/design/LHpx8t9HZGLiyzqIMhPS4x/Hi-Fi-Figma-Wireframe?
 
-\*\*Looker Studio Dashboard:\*\* \[https://datastudio.google.com/reporting/4780a7ef-6fbd-454b-a59e-bc90ccc667ab/page/o5ZCG]
+\*\*Looker Studio Dashboard:\*\* https://datastudio.google.com/reporting/4780a7ef-6fbd-454b-a59e-bc90ccc667ab/page/o5ZCG
 
-\*\*Presentation Video:\*\* \[https://drive.google.com/file/d/1iWBLbcBFIC17McxeHYF9z6LI81HyFDFe/view?usp=sharing]
+\*\*Presentation Video:\*\* https://drive.google.com/file/d/1iWBLbcBFIC17McxeHYF9z6LI81HyFDFe/view?usp=sharing
 
 \*\*Instagram Carousels:\*\*
 
