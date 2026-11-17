@@ -64,13 +64,13 @@ Comprehensive 10-week growth marketing capstone project for Board Infinity, targ
 
 \*\*Instagram Carousels:\*\*
 
-Carousel 1= \[https://canva.link/1bnk5jep83finqg]
+Carousel 1= \[https://canva.link/6pn411ai4vuzr3b]
 
-Carousel 2= \[https://canva.link/l27zulss8z5t1kk]
+Carousel 2= \[https://canva.link/1y1g3suvnbsfou8]
 
-Carousel 3= \[https://canva.link/jj796l7rxu4ms42]
+Carousel 3= \[https://canva.link/tvxv6ylczm1u6rw]
 
-\*\*LinkedIn Text Post 1-2:\*\* \[https://canva.link/if8hmmcap7lleck]
+\*\*LinkedIn Text Post 1-2:\*\* \[https://canva.link/jtgqbqdv0zgi97d]
 
 
 
